@@ -9,7 +9,7 @@ name: Rohan Rele
 description: Operations Research Enthusiast
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/rohan98-107/rohan98-107.github.io/blob/master/images/blog_profile2.jpg
+avatar: /images/blog_profile2.jpg
 
 #
 # Flags below are optional
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: rohan98-107
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/rohanrele76b3b6148/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: # none
