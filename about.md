@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-permalink: /vitae/
+permalink: /about/
 ---
 
 
@@ -39,7 +39,7 @@ I am a graduate student at the University of Washington, currently enrolled in t
   * Attended workshops on how to read, write and understand academic papers
   * Gave talks amongst our different research groups to improve presentation skills
   * Proposed, implemented and presented a method for compressing an image into a system of polynomials based on the depth, sizes and orientations of the images’ Newton’s basins
-  
+
 ### Contact
 
 Please feel free to add me on LinkedIn. I love speaking with fellow enthusiasts!  
