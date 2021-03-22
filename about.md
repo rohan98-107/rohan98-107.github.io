@@ -7,7 +7,7 @@ permalink: /about/
 
 I am a graduate student at the University of Washington, currently enrolled in the Applied Math Department. My coursework and research interests span "industrial mathematics" i.e. using quantitative methodologies to tackle complex people-centric modeling problems. I am fortunate to be advised by [Zelda Zabinsky](http://faculty.washington.edu/zelda/), on a thesis project in global simulation optimization.
 
-### Education
+## Education
 
 **M.S. - Applied Mathematics, University of Washington**
 
@@ -18,7 +18,7 @@ I am a graduate student at the University of Washington, currently enrolled in t
 *2016 - 2020*
 
 
-### Research Experience
+## Research Experience
 
 **Stochastic Optimization with Guided restarts via a modified Hesitant Adaptive Search Process**
 
@@ -56,7 +56,7 @@ I am a graduate student at the University of Washington, currently enrolled in t
   * Gave talks amongst our different research groups to improve presentation skills
   * Proposed, implemented and presented a method for compressing an image into a system of polynomials based on the depth, sizes and orientations of the images’ Newton’s basins
 
-### Internships
+## Internships
 
 **Institute of Electrical & Electronics Engineers (IEEE)**
 
@@ -83,7 +83,7 @@ I am a graduate student at the University of Washington, currently enrolled in t
   * Deployed MapReduce to detect problematic inputs to server-side code
   * Summarized data collected from debugging applications in a presentation supplemented by D3 visualizations  
 
-### Technical Skills
+## Technical Skills
 
 **Languages**: Python, Java, C++, C, R, MATLAB, Octave, SQL
 
@@ -91,7 +91,7 @@ I am a graduate student at the University of Washington, currently enrolled in t
 
 **Software/Tools**: Tableau, Excel, Git, Jupyter, AWS, Apache Big Data Stack, Presto, LaTeX
 
-### Relevant Coursework
+## Relevant Coursework
 
 | Course        | Taken at      | Grade |
 | ------------- |:-------------:| -----:|
@@ -117,18 +117,18 @@ I am a graduate student at the University of Washington, currently enrolled in t
 
 *- indicates in progress*
 
-### Teaching Experience
+## Teaching Experience
 
-**Teaching Assitant**
+**Teaching Assistant**
 
 *University of Washington*
 
 *Dept. of Applied Mathematics*
 
 * AMATH 301: Introduction to Scientific Computing
-..* Fall '20: ~ 400 students
-..* Winter '21: ~ 600 students
-..* Spring '21: ~ 700 students
+  * Fall '20: ~ 400 students
+  * Winter '21: ~ 600 students
+  * Spring '21: ~ 700 students
 
 **Mathematics Tutor**
 
@@ -137,19 +137,19 @@ I am a graduate student at the University of Washington, currently enrolled in t
 *Student Support and Disability Services (TRiO)*
 
 * 2017-2019
-..*Pre-Calculus
-..*Remedial Algebra
-..*Calculus I-III
-..*Real Analysis I
-..*Statistics I-II
-..*Introduction to Computer Science
+  * Pre-Calculus
+  * Remedial Algebra
+  * Calculus I-III
+  * Real Analysis I
+  * Statistics I-II
+  * Introduction to Computer Science
 
-### Presentations/Talks 
+## Presentations/Talks
 
 * Aresty Undergraduate Research Symposium - 5/2019
 * Middlesex County Academy Alumni Workshop - 6/2019
 
-### Contact
+## Contact
 
 Please feel free to add me on LinkedIn. I love speaking with fellow enthusiasts!  
 
