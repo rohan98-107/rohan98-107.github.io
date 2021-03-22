@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-I am a graduate student at the University of Washington, currently enrolled in the Applied Math Department. My coursework and research interests span "industrial mathematics" i.e. using quantitative methodologies to tackle complex people-centric modeling problems. I am fortunate to be advised by [!Zelda Zabinsky] (http://faculty.washington.edu/zelda/), on a thesis project in global simulation optimization.
+I am a graduate student at the University of Washington, currently enrolled in the Applied Math Department. My coursework and research interests span "industrial mathematics" i.e. using quantitative methodologies to tackle complex people-centric modeling problems. I am fortunate to be advised by [Zelda Zabinsky] (http://faculty.washington.edu/zelda/), on a thesis project in global simulation optimization.
 
 ### Education
 
