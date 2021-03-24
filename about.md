@@ -119,7 +119,7 @@ I am a graduate student at the University of Washington, currently enrolled in t
 | Machine Learning | Coursera | Certificate |
 | Algorithms (Part I) | Coursera | - |
 | Statistical Learning | Stanford Lagunita | Certificate |
-{: .tablelines}
+{:.mbtablestyle}
 
 
 *- indicates in progress*
