@@ -1,5 +1,5 @@
 ---
-layout: post_new
+layout: post
 title: Welcome to RO's OR Blog!
 ---
 
@@ -13,4 +13,4 @@ Hello! Welcome to <a href="https://www.codecogs.com/eqnedit.php?latex=RO&space;\
 
 Why do my self-proclaimed expert opinions and posts warrant reading? Great question, they don't! There are several prolific Operations Reserach bloggers out there that this blog is very much inspired by. Some of my favorites include [Prof. Laura Albert's](https://punkrockor.com/), [Prof. Mike Trick's](https://mat.tepper.cmu.edu/blog/) and [Yet Another Math Programming Consultant's](http://yetanothermathprogrammingconsultant.blogspot.com/).
 
-My super-secret mastermind plan is to use this blog as a means to brainwash all my fellow mathematicians, programmers, statisticians and engineers into believing that the umbrella of operations research houses some of the most important computational tools of our time. If I fail...well at least I convinced myself. I hope you all enjoy reading my work as much as I do! 
+My super-secret mastermind plan is to use this blog as a means to brainwash all my fellow mathematicians, programmers, statisticians and engineers into believing that the umbrella of operations research houses some of the most important computational tools of our time. If I fail...well at least I convinced myself. I hope you all enjoy reading my work as much as I do!
