@@ -97,7 +97,6 @@ I am a graduate student at the University of Washington, currently enrolled in t
 
 ## Relevant Coursework
 
-{:class="table table-bordered"}
 | Course        | Taken at      | Grade |
 | :------------- |:-------------| :-----|
 | Advanced Linear Algebra       | RU  | B+|
