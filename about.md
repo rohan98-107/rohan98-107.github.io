@@ -97,6 +97,7 @@ I am a graduate student at the University of Washington, currently enrolled in t
 
 ## Relevant Coursework
 
+<!--
 | Course        | Taken at      | Grade |
 | :------------- |:-------------| :-----|
 | Advanced Linear Algebra       | RU  | B+|
@@ -119,7 +120,128 @@ I am a graduate student at the University of Washington, currently enrolled in t
 | Machine Learning | Coursera | Certificate |
 | Algorithms (Part I) | Coursera | - |
 | Statistical Learning | Stanford Lagunita | Certificate |
+-->
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1wig">Course</th>
+    <th class="tg-1wig">Taken </th>
+    <th class="tg-1wig">Grade</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Advanced Linear Algebra</td>
+    <td class="tg-0lax">RU</td>
+    <td class="tg-0lax">B+</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Theory of Statistics</td>
+    <td class="tg-0lax">RU</td>
+    <td class="tg-0lax">A</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Linear Optimization</td>
+    <td class="tg-0lax">RU</td>
+    <td class="tg-0lax">A</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Computer Architecture</td>
+    <td class="tg-0lax">RU</td>
+    <td class="tg-0lax">B+</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Actuarial Data Analysis</td>
+    <td class="tg-0lax">RU</td>
+    <td class="tg-0lax">A</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Regression Analysis</td>
+    <td class="tg-0lax">RU</td>
+    <td class="tg-0lax">A</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Intro to Artificial Intelligence</td>
+    <td class="tg-0lax">RU </td>
+    <td class="tg-0lax">A</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Complex Analysis</td>
+    <td class="tg-0lax">UW </td>
+    <td class="tg-0lax">3.8</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Intro to Random Processes</td>
+    <td class="tg-0lax">UW</td>
+    <td class="tg-0lax">3.9</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Discrete Optimization</td>
+    <td class="tg-0lax">UW</td>
+    <td class="tg-0lax">3.9</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Variational Analysis (Seminar)</td>
+    <td class="tg-0lax">UW</td>
+    <td class="tg-0lax">4.0</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Fundamentals of Optimization</td>
+    <td class="tg-0lax">UW</td>
+    <td class="tg-0lax">4.0</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Advanced Ordinary Differential Equations</td>
+    <td class="tg-0lax">UW</td>
+    <td class="tg-0lax">4.0</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Advanced Stochastic Processes </td>
+    <td class="tg-0lax">UW </td>
+    <td class="tg-0lax">3.7</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Numerical Optimization</td>
+    <td class="tg-0lax">UW</td>
+    <td class="tg-0lax">-</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Global Optimization</td>
+    <td class="tg-0lax">UW</td>
+    <td class="tg-0lax">-</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Partial Differential Equations </td>
+    <td class="tg-0lax">UW</td>
+    <td class="tg-0lax">-</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Machine Learning </td>
+    <td class="tg-0lax">Coursera</td>
+    <td class="tg-0lax">Certificate</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Algorithms (Part I)</td>
+    <td class="tg-0lax">Coursera</td>
+    <td class="tg-0lax">-</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Statistical Learning </td>
+    <td class="tg-0lax">Stanford Lagunita</td>
+    <td class="tg-0lax">Certificate</td>
+  </tr>
+</tbody>
+</table>
 
 *- indicates in progress*
 
