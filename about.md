@@ -97,6 +97,7 @@ I am a graduate student at the University of Washington, currently enrolled in t
 
 ## Relevant Coursework
 
+{:class="table table-bordered"}
 | Course        | Taken at      | Grade |
 | :------------- |:-------------| :-----|
 | Advanced Linear Algebra       | RU  | B+|
@@ -119,7 +120,6 @@ I am a graduate student at the University of Washington, currently enrolled in t
 | Machine Learning | Coursera | Certificate |
 | Algorithms (Part I) | Coursera | - |
 | Statistical Learning | Stanford Lagunita | Certificate |
-{:.mbtablestyle}
 
 
 *- indicates in progress*
