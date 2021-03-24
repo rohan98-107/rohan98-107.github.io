@@ -1,5 +1,5 @@
 ---
-layout: post_test
+layout: post
 title: Welcome to RO's OR Blog!
 ---
 
