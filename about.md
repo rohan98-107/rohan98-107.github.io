@@ -17,6 +17,10 @@ I am a graduate student at the University of Washington, currently enrolled in t
 
 *2016 - 2020*
 
+**High School - Middlesex County Academy, Edison NJ**
+
+*2012 - 2016*
+
 
 ## Research Experience
 
@@ -94,7 +98,7 @@ I am a graduate student at the University of Washington, currently enrolled in t
 ## Relevant Coursework
 
 | Course        | Taken at      | Grade |
-| ------------- |:-------------:| -----:|
+| :------------- |:-------------| :-----|
 | Advanced Linear Algebra       | RU  | B+|
 | Theory of Statistics          | RU  | A |
 | Linear Optimization           | RU  | A |
@@ -108,12 +112,15 @@ I am a graduate student at the University of Washington, currently enrolled in t
 | Variational Analysis (Seminar)| UW  | 4.0 |
 | Fundamentals of Optimization  | UW  | 4.0 |
 | Advanced Ordinary Differential Equations | UW  | 4.0 |
-| Advanced Stochastic Processes | UW | - |
+| Advanced Stochastic Processes | UW | 3.7 |
 | Numerical Optimization | UW | - |
 | Global Optimization | UW | - |
 | Partial Differential Equations | UW | - |
 | Machine Learning | Coursera | Certificate |
+| Algorithms (Part I) | Coursera | - |
 | Statistical Learning | Stanford Lagunita | Certificate |
+{: .tablelines}
+
 
 *- indicates in progress*
 
