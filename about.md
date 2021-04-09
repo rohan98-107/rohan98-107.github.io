@@ -256,7 +256,7 @@ I am a graduate student at the University of Washington, currently enrolled in t
 * AMATH 301: Introduction to Scientific Computing
   * Fall '20: ~ 400 students
   * Winter '21: ~ 600 students
-  * Spring '21: ~ 700 students
+  * Spring '21: ~ 500 students
 
 **Mathematics Tutor**
 
