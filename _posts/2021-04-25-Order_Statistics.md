@@ -8,11 +8,9 @@ This will be my first technical post. Part of the reason I made this blog was to
 
 For a collection of random variables (RVs) $$(X_j)_{j=1}^n$$, the $$n$$th order statistic is defined as
 
-$$X_{(1)} := \min(X_1, X_2, \hdots, X_n),$$
+$$X_{(1)} := \min(X_1, X_2, ..., X_n),$$
 
-do i need text here?
-
-$$X_{(n)} := \max(X_1, X_2, \hdots, X_n).$$
+$$X_{(n)} := \max(X_1, X_2, ..., X_n).$$
 
 In particular, $$X_{(j)}$$ is simply another RV that represents the $$(n+1)-j$$th greatest value.
 
