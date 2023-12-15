@@ -24,8 +24,7 @@ X_{(j+1)} & n = 2j + 1 \\
 
 $$\text{range} = X_{(n)} = X_{(1)}.$$
 
-A collection of *records* $$(Y_{R(k)})_{k, R(k) \in \N$$ is a strictly monotone decreasing sequence of RVs (which form a Markov Chain) that represent *improvements* over the set of all values $$\{Y_k | k \leq R(k)\}$$. To gain a better intuition about this concept consider the following figure.
+A collection of *records* $$(Y_{R(k)})_{k, R(k) \in \mathbb{N}}$$ is a strictly monotone decreasing sequence of RVs (which form a Markov Chain) that represent *improvements* over the set of all values $$\{Y_k | k \leq R(k)\}$$. To gain a better intuition about this concept consider the following figure.
 
 ![alt text](/images/Records.png)
-|:--:|
-| *The black dots represent realized random variables i.e., $$Y_0 = 10, Y_1 = 7, Y_2 = 7, \cdots Y_10 = 1/2$$, the red dots represent **records**, which are strict improvements. Further, the subscript $$R(k)$$ is itself a random variable, denoting the index of original value that corresponds to the $$k$$-th record. So $$Y_4 = 5$$ but $$Y_{R(5)} = 1$$ and $$R(5) = 8$$.
+*The black dots represent realized random variables i.e., $$Y_0 = 10, Y_1 = 7, Y_2 = 7, \cdots Y_10 = 1/2$$, the red dots represent **records**, which are strict improvements. Further, the subscript $$R(k)$$ is itself a random variable, denoting the index of original value that corresponds to the $$k$$-th record. So $$Y_4 = 5$$ but $$Y_{R(5)} = 1$$ and $$R(5) = 8$$.
