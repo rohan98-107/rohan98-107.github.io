@@ -1,4 +1,8 @@
-
+---
+layout: post
+title: A New Research Direction
+katex: true
+---
 Traditional optimization assumes well-defined objective functions and consistent preferences. Human behavior systematically violates these assumptions in fascinating ways. Rather than treating this as noise to be eliminated, I'm developing mathematical frameworks that embrace and model the "irrationality" directly.
 
 This blog documents my journey into computational behavioral science - using cutting-edge tools (LLM prompt engineering, quantum computing and advanced optimization) to understand the mathematical structure underlying human decision-making. Think of it as applied mathematics meeting psychology, with a healthy dose of experimental computer science.

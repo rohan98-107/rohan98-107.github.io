@@ -5,82 +5,62 @@ permalink: /about/
 ---
 
 
-I am a graduate student at the University of Washington, currently enrolled in the Applied Math Department. My coursework and research interests span "industrial mathematics" i.e. using quantitative methodologies to tackle complex people-centric modeling problems. I am fortunate to be advised by [Zelda Zabinsky](http://faculty.washington.edu/zelda/), on a thesis project in global simulation optimization.
+I am a graduate student at Arizona State University. My advisor is Professor Angelia Nedich. I have advanced training in optimization, statistics and computational mathematics and currently study the existence of solutions to nonconvex and semialgebraic optimization problems. I have recently become interested in variational problems and their applications in behavioral science. 
 
 ## Education
 
-**M.S. - Applied Mathematics, University of Washington**
+**PhD - Electrical and Computer Engineering, Arizona State University**
 
-*2020 - Current*
+**M.S. - Applied Mathematics, University of Washington**
 
 **B.A. - Mathematics, Rutgers University**
 
-*2016 - 2020*
-
 **High School - Middlesex County Academy, Edison NJ**
 
-*2012 - 2016*
+## Research
 
+See my arXiv for recent publications: https://arxiv.org/search/math?searchtype=author&query=Rele,+R
 
-## Research Experience
+Alternatively, check out my Google Scholar: https://scholar.google.com/citations?user=EC5gz5gAAAAJ&hl=en
 
-**Stochastic Optimization with Guided restarts via a modified Hesitant Adaptive Search Process**
-
-*University of Washington - Dept. of Industrial Engineering*
-
-*Advised by: Zelda Zabinsky*
-
-*In Progress*
+## Undergraduate Research 
 
 **Computational Geometric Image Processing Algorithms**
+_Independent Study – Computer Science – Advised by: Bahman Kalantari_
+• Developed 3 novel algorithms that use geometric/algebraic techniques for spatial image pre-processing
+• Proposed a novel method for image compression that utilized mathematical properties of numerical root-finding
+• Wrote multiple packages to simulate and verify theoretical results that arose during algorithm design
+• Trained a convolutional neural network with BSDS300 to compare our results to modern image-processing techniques
 
-*Rutgers University - Dept. of Computer Science*
+## Work Experience 
 
-*Advised by: Bahman Kalantari*
-
-*2019-2020*
-
-  * Developed three novel algorithms that use a variety of geometric techniques to pre-process images for specific learning problems
-  * Produced and maintained several gigabytes of numerical and graphical results
-  * Substantiated theoretical guarantees for the complexity of these algorithms
-  * Used both spatial properties and heuristics to discuss the “convergence” of an image
-  * Exploited properties of convex hulls and projective spaces to represent pixel information mathematically
-
-**Polynomiographic Image Compression**
-
-*Rutgers University - Aresty Research Center*
-
-*Advised by: Bahman Kalantari*
-
-*2018-2019*
-
-  * Explored elementary complex analysis and its uses in numerical root-finding methods
-  * Explored the basics of dynamical systems and their relationship to root-finding
-  * Attended workshops on how to read, write and understand academic papers
-  * Gave talks amongst our different research groups to improve presentation skills
-  * Proposed, implemented and presented a method for compressing an image into a system of polynomials based on the depth, sizes and orientations of the images’ Newton’s basins
-
+**The MITRE Corporation** (~2 years)
+_Intermediate Operations Research Analyst – Modeling and Simulation Group_
+• Led a team of researchers in developing an adversarial game-theoretic graph engine for real-time decision support
+• Designed an optimization-based approach to a large-scale differential privacy problem
+• Provided advanced linear programming capabilities via jupyter notebook applications to various government sponsors
+• Compiled exhaustive literature reviews in constraint programming, software-defined network security and MLOps
+• Consulted on a neuromorphic imaging research effort as an image processing subject matter expert (SME)
 ## Internships
 
-**Institute of Electrical & Electronics Engineers (IEEE)**
+**The Boeing Company** (~6 months)
+_Graduate Research Program – Applied Mathematics Group_
+• Created and managed graph database of company-wide employee, business function and project proposal data
+• Leveraged Neo4j Python API to perform graph data science and graph ML to answer key business questions
+• Educated stakeholders at the executive level on Cypher querying and refactoring graph data model for optimal use
+• Deployed conversational AI to summarize collective project efforts at the subgraph level for hybridized functionality
+• Presented whitepaper on graph algorithms such as centrality and link prediction for company-specific solutions
 
-*Data Analyst Intern*
+**Institute of Electrical and Electronics Engineers (IEEE)** (~3 months)
+_Data Science Intern – Publications Technology_
+• Incorporated a pairwise-graph similarity index algorithm for author disambiguation into our existing architecture
+• Optimized search functionality on IEEE Xplore website via web-crawlers and historic content-based .json data
+• Collaborated with various teams to design a new AWS application architecture with refined ETL/analytic processes
+• Engineered Oozie workflows and Spark jobs on AWS Glue via Lambda functions using a Python API
+• Migrated a terabyte of legacy production data from HDFS to Amazon S3, EMR and Redshift
 
-*6/2019-8/2019*
-
-  * Collaborated with various teams to design a new AWS application architecture with refined ETL/analytic processes
-  * Incorporated a pairwise-graph similarity index algorithm for author disambiguation into our existing architecture
-  * Engineered Oozie workflows and Spark jobs on AWS Glue via Lambda functions using a Python API
-  * Migrated a terabyte of legacy production data from HDFS to Amazon S3, EMR and Redshift  
-  * Optimized search functionality on IEEE Xplore website via web-crawlers and historic content-based .json data
-  * Generated Tableau dashboards of IEEE Xplore usage data to assist business units in detecting fraudulent usage
-
-**DistroScale, Inc.**	 	 	 
-
-*Software Engineering Intern*
-
-*06/18 – 08/18*
-
+**DistroScale, Inc.** (~3 months) 	 
+*Software Engineering Intern* 
   * Utilized a naive logistic regression algorithm to classify anonymous IP server requests
   * Regularly communicated with teams overseas via data reports generated by SQL queries in the Hadoop platform  
   * Performed root-cause analyses to assist in managing web traffic
@@ -89,168 +69,13 @@ I am a graduate student at the University of Washington, currently enrolled in t
 
 ## Technical Skills
 
-**Languages**: Python, Java, C++, C, R, MATLAB, Octave, SQL
+**Languages**: Python, C++, SQL/Cypher 
 
-**Relevant Libraries**: Matplotlib, NumPy, Impyla, Keras, pandas, tensorflow, pyspark
-
-**Software/Tools**: Tableau, Excel, Git, Jupyter, AWS, Apache Big Data Stack, Presto, LaTeX
-
-## Relevant Coursework
-
-<!--
-| Course        | Taken at      | Grade |
-| :------------- |:-------------| :-----|
-| Advanced Linear Algebra       | RU  | B+|
-| Theory of Statistics          | RU  | A |
-| Linear Optimization           | RU  | A |
-| Computer Architecture         | RU  | B+|
-| Actuarial Data Analysis       | RU  | A |
-| Regression Analysis           | RU  | A |
-| Intro to AI                   | RU  | A |
-| Complex Analysis              | UW  | 3.8 |
-| Intro to Random Processes     | UW  | 3.9 |
-| Discrete Optimization         | UW  | 3.9 |
-| Variational Analysis (Seminar)| UW  | 4.0 |
-| Fundamentals of Optimization  | UW  | 4.0 |
-| Advanced Ordinary Differential Equations | UW  | 4.0 |
-| Advanced Stochastic Processes | UW | 3.7 |
-| Numerical Optimization | UW | - |
-| Global Optimization | UW | - |
-| Partial Differential Equations | UW | - |
-| Machine Learning | Coursera | Certificate |
-| Algorithms (Part I) | Coursera | - |
-| Statistical Learning | Stanford Lagunita | Certificate |
--->
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1wig">Course</th>
-    <th class="tg-1wig">Taken </th>
-    <!--th class="tg-1wig">Grade</th-->
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">Advanced Linear Algebra</td>
-    <td class="tg-0lax">RU</td>
-    <!--td class="tg-0lax">B+</td-->
-  </tr>
-  <tr>
-    <td class="tg-0lax">Theory of Statistics</td>
-    <td class="tg-0lax">RU</td>
-    <!--td class="tg-0lax">A</td-->
-  </tr>
-  <tr>
-    <td class="tg-0lax">Linear Optimization</td>
-    <td class="tg-0lax">RU</td>
-    <!--td class="tg-0lax">A</td-->
-  </tr>
-  <tr>
-    <td class="tg-0lax">Computer Architecture</td>
-    <td class="tg-0lax">RU</td>
-    <!--td class="tg-0lax">B+</td-->
-  </tr>
-  <tr>
-    <td class="tg-0lax">Actuarial Data Analysis</td>
-    <td class="tg-0lax">RU</td>
-    <!--td class="tg-0lax">A</td-->
-  </tr>
-  <tr>
-    <td class="tg-0lax">Regression Analysis</td>
-    <td class="tg-0lax">RU</td>
-    <!--td class="tg-0lax">A</td-->
-  </tr>
-  <tr>
-    <td class="tg-0lax">Intro to Artificial Intelligence</td>
-    <td class="tg-0lax">RU </td>
-    <!--td class="tg-0lax">A</td-->
-  </tr>
-  <tr>
-    <td class="tg-0lax">Complex Analysis</td>
-    <td class="tg-0lax">UW </td>
-    <!--td class="tg-0lax">3.8</td-->
-  </tr>
-  <tr>
-    <td class="tg-0lax">Intro to Random Processes</td>
-    <td class="tg-0lax">UW</td>
-    <!--td class="tg-0lax">3.9</td-->
-  </tr>
-  <tr>
-    <td class="tg-0lax">Discrete Optimization</td>
-    <td class="tg-0lax">UW</td>
-    <!--td class="tg-0lax">3.9</td-->
-  </tr>
-  <tr>
-    <td class="tg-0lax">Variational Analysis (Seminar)</td>
-    <td class="tg-0lax">UW</td>
-    <!--td class="tg-0lax">4.0</td-->
-  </tr>
-  <tr>
-    <td class="tg-0lax">Fundamentals of Optimization</td>
-    <td class="tg-0lax">UW</td>
-    <!--td class="tg-0lax">4.0</td-->
-  </tr>
-  <tr>
-    <td class="tg-0lax">Advanced Ordinary Differential Equations</td>
-    <td class="tg-0lax">UW</td>
-    <!--td class="tg-0lax">4.0</td-->
-  </tr>
-  <tr>
-    <td class="tg-0lax">Advanced Stochastic Processes </td>
-    <td class="tg-0lax">UW </td>
-    <!--td class="tg-0lax">3.7</td-->
-  </tr>
-  <tr>
-    <td class="tg-0lax">Numerical Optimization</td>
-    <td class="tg-0lax">UW</td>
-    <!--td class="tg-0lax">-</td-->
-  </tr>
-  <tr>
-    <td class="tg-0lax">Global Optimization</td>
-    <td class="tg-0lax">UW</td>
-    <!--td class="tg-0lax">-</td-->
-  </tr>
-  <tr>
-    <td class="tg-0lax">Partial Differential Equations </td>
-    <td class="tg-0lax">UW</td>
-    <!--td class="tg-0lax">-</td-->
-  </tr>
-  <tr>
-    <td class="tg-0lax">Machine Learning </td>
-    <td class="tg-0lax">Coursera</td>
-    <!--td class="tg-0lax">Certificate</td-->
-  </tr>
-  <tr>
-    <td class="tg-0lax">Algorithms (Part I)</td>
-    <td class="tg-0lax">Coursera</td>
-    <!--td class="tg-0lax">-</td-->
-  </tr>
-  <tr>
-    <td class="tg-0lax">Statistical Learning </td>
-    <td class="tg-0lax">Stanford Lagunita</td>
-    <!--td class="tg-0lax">Certificate</td-->
-  </tr>
-</tbody>
-</table>
-
-<!--*- indicates in progress*-->
-
+**Software/Tools**: Jupyter, LaTeX, AWS Cloud, Apache Big Data Stack, Neo4j 
 ## Teaching Experience
 
 **Teaching Assistant**
-
 *University of Washington*
-
 *Dept. of Applied Mathematics*
 
 * AMATH 301: Introduction to Scientific Computing
@@ -259,9 +84,7 @@ I am a graduate student at the University of Washington, currently enrolled in t
   * Spring '21: ~ 500 students
 
 **Mathematics Tutor**
-
 *Rutgers University*
-
 *Student Support and Disability Services (TRiO)*
 
 * 2017-2019
@@ -274,6 +97,7 @@ I am a graduate student at the University of Washington, currently enrolled in t
 
 ## Presentations/Talks
 
+* INFORMS Nonlinear Optimization Session - 10/2024 
 * Aresty Undergraduate Research Symposium - 5/2019
 * Middlesex County Academy Alumni Workshop - 6/2019
 
