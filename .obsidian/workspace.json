@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.md",
+                "file": "_posts/2025-06-18-Prompt_Engineering_for_Preferences.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "2025-06-18-Prompt_Engineering_for_Preferences"
             }
           }
         ],
@@ -183,9 +183,12 @@
   "active": "5a98169238081956",
   "lastOpenFiles": [
     "_posts/2025-06-07-A_New_Research_Direction.md",
-    "_posts/2023-12-14-Order_Statistics.md",
+    "_posts/2025-06-18-Prompt_Engineering_for_Preferences.md",
+    "_posts/2021-03-24-Welcome.md",
     "_posts/2021-03-26-What_is_OR.md",
     "_posts/2021-03-30-Spectrum_of_OR.md",
+    "_posts/2023-12-14-Order_Statistics.md",
+    "Post Heading.md",
     "about.md",
     "404.md",
     "images/Timeline2.png",
@@ -199,7 +202,6 @@
     "images/config.png",
     "images/blog_profile2.jpg",
     "README.md",
-    "preference-trajectories.md",
-    "_posts/2021-03-24-Welcome.md"
+    "preference-trajectories.md"
   ]
 }
