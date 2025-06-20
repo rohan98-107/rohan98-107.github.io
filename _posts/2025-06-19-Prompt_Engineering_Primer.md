@@ -3,8 +3,6 @@ layout: post
 title: A Primer on Prompt Engineering
 katex: true
 ---
-# Intro to Prompting for Research
-
 Prompt engineering is the difference between getting useful data from LLMs and getting garbage. Since I'm using LLMs as proxies for mathematically modeling preferences, I needed to study some of the current state-of-the-art prompting techniques.
 
 ## The Basic Structure

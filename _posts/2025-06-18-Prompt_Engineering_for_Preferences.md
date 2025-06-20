@@ -60,14 +60,14 @@ The magic is in the `[CONTEXT]` section. While traditional prompt engineering tr
 
 Given the six categorical ways to influence decision-making, I wanted to keep the actual choice relatively discrete so as not to introduce too much noise in the result itself. I will have the LLM choose between a fixed number of laptops and measure how its preference changes over time. More concretely: 
 
-|Framing Category|Laptop Examples|
-|---|---|
-|**Value-Based**|"best value for money" vs "maximize performance per dollar"|
-|**Context-Based**|"laptop for creative work" vs "laptop for business presentations"|
-|**Emotional**|"reflects your professional image" vs "earns respect from colleagues"|
-|**Constraint-Based**|"unlimited budget" vs "tight budget constraints"|
-|**Comparative**|"stand out from everyone else" vs "similar to successful people"|
-|**Temporal**|"needs for next 3 years" vs "immediate purchase decision"|
+| Framing Category     | Laptop Examples                                                       |
+|----------------------|------------------------------------------------------------------------|
+| **Value-Based**      | "best value for money" vs "maximize performance per dollar"           |
+| **Context-Based**    | "laptop for creative work" vs "laptop for business presentations"     |
+| **Emotional**        | "reflects your professional image" vs "earns respect from colleagues" |
+| **Constraint-Based** | "unlimited budget" vs "tight budget constraints"                      |
+| **Comparative**      | "stand out from everyone else" vs "similar to successful people"      |
+| **Temporal**         | "needs for next 3 years" vs "immediate purchase decision"             |
 
 ## The Mathematical Payoff
 
