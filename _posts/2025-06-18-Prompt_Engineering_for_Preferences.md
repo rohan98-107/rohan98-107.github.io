@@ -81,10 +81,6 @@ If LLMs truly learned human-like cognitive patterns, I should see:
 - Context framings producing **clustered preference regions**
 
 This adds an entirely new dimension to prompt engineering that I am super excited to learn and share with you all! 
-
----
-
-_Next up: I'll share the results from running 90 LLM experiments across these framing conditions. Spoiler alert: the preference trajectories are even weirder than I expected._
 ## References
 
 [1] Tversky, A., & Kahneman, D. (1981). The framing of decisions and the psychology of choice. Science, 211(4481), 453-458.

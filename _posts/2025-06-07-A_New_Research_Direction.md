@@ -45,7 +45,6 @@ _The tools may be mathematical, but the questions are deeply human. How do we ma
 
 _Let's find out._
 
-
 ### References 
 
 [1] Meghdadi, A., Akbarzadeh-T, M.R. & Javidan, K. A quantum-like cognitive approach to modeling human biased selection behavior. _Sci Rep_ **12**, 22545 (2022). https://doi.org/10.1038/s41598-022-13757-2
