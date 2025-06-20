@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Prompt Engineering for Preference Modeling
+title: Psychology-Informed Prompting
 katex: true
 ---
 When I started thinking about using LLMs as proxies for human behavior, I quickly realized that the quality of my experimental data would live or die by one thing: **how I ask the questions**. Traditional psychology experiments control for environmental variables, participant selection, and task design. In computational behavioral science, your "environment" is the prompt, your "participants" are LLM instances, and your "task design" becomes the infantile art of prompt engineering.
