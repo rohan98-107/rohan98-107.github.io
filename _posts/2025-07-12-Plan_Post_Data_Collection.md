@@ -1,12 +1,7 @@
-
 ---
-
 layout: post
-
-title: Data Collection Complete! 
-
-katex: True
-
+title: Data Collection Complete!
+katex: true
 ---
 
 The data collection phase is complete. After navigating API rate limits, extraction debugging, and the inevitable "why is chosen_laptop always null?" moments, we've successfully gathered preference trajectories from 19 LLM "people" across 18 different contextual framings. Now we want to make sense of our data.
