@@ -36,28 +36,28 @@ _Independent Study – Computer Science – Advised by: Bahman Kalantari_
 
 **The MITRE Corporation** (~2 years)
 _Intermediate Operations Research Analyst – Modeling and Simulation Group_
-• Led a team of researchers in developing an adversarial game-theoretic graph engine for real-time decision support
-• Designed an optimization-based approach to a large-scale differential privacy problem
-• Provided advanced linear programming capabilities via jupyter notebook applications to various government sponsors
-• Compiled exhaustive literature reviews in constraint programming, software-defined network security and MLOps
-• Consulted on a neuromorphic imaging research effort as an image processing subject matter expert (SME)
+	• Led a team of researchers in developing an adversarial game-theoretic graph engine for real-time decision support
+	• Designed an optimization-based approach to a large-scale differential privacy problem
+	• Provided advanced linear programming capabilities via jupyter notebook applications to various government sponsors
+	• Compiled exhaustive literature reviews in constraint programming, software-defined network security and MLOps
+	• Consulted on a neuromorphic imaging research effort as an image processing subject matter expert (SME)
 ## Internships
 
 **The Boeing Company** (~6 months)
 _Graduate Research Program – Applied Mathematics Group_
-• Created and managed graph database of company-wide employee, business function and project proposal data
-• Leveraged Neo4j Python API to perform graph data science and graph ML to answer key business questions
-• Educated stakeholders at the executive level on Cypher querying and refactoring graph data model for optimal use
-• Deployed conversational AI to summarize collective project efforts at the subgraph level for hybridized functionality
-• Presented whitepaper on graph algorithms such as centrality and link prediction for company-specific solutions
+	• Created and managed graph database of company-wide employee, business function and project proposal data
+	• Leveraged Neo4j Python API to perform graph data science and graph ML to answer key business questions
+	• Educated stakeholders at the executive level on Cypher querying and refactoring graph data model for optimal use
+	• Deployed conversational AI to summarize collective project efforts at the subgraph level for hybridized functionality
+	• Presented whitepaper on graph algorithms such as centrality and link prediction for company-specific solutions
 
 **Institute of Electrical and Electronics Engineers (IEEE)** (~3 months)
 _Data Science Intern – Publications Technology_
-• Incorporated a pairwise-graph similarity index algorithm for author disambiguation into our existing architecture
-• Optimized search functionality on IEEE Xplore website via web-crawlers and historic content-based .json data
-• Collaborated with various teams to design a new AWS application architecture with refined ETL/analytic processes
-• Engineered Oozie workflows and Spark jobs on AWS Glue via Lambda functions using a Python API
-• Migrated a terabyte of legacy production data from HDFS to Amazon S3, EMR and Redshift
+	• Incorporated a pairwise-graph similarity index algorithm for author disambiguation into our existing architecture
+	• Optimized search functionality on IEEE Xplore website via web-crawlers and historic content-based .json data
+	• Collaborated with various teams to design a new AWS application architecture with refined ETL/analytic processes
+	• Engineered Oozie workflows and Spark jobs on AWS Glue via Lambda functions using a Python API
+	• Migrated a terabyte of legacy production data from HDFS to Amazon S3, EMR and Redshift
 
 **DistroScale, Inc.** (~3 months) 	 
 *Software Engineering Intern* 
